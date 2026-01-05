@@ -38,6 +38,7 @@ To set up the Python environment for this repository, follow these steps with `u
     ```bash
     uv pip install -e .
     ```
+    This command installs the current package listed in `pyproject.toml` in editable mode, allowing you to make changes to the code without reinstalling.
 4. **Verify the installation**:
     ```bash
     uv pip list
