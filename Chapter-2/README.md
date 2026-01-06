@@ -29,3 +29,7 @@ Switch to [`main.ipynb`](./main/main.ipynb) to see the content for this section.
 Switch to [`main.ipynb`](./main/main.ipynb) to see the content for this section.
 
 Check [`bytepair-encoder/`](./bytepair-encoder/) directory to compare implementations of BPE tokenizer.
+
+## 2.6 Data Sampling with a Sliding Window
+
+Switch to [`main.ipynb`](./main/main.ipynb) to see the content for this section.
