@@ -15,3 +15,17 @@ One of the most popular methods for generating word embeddings is *Word2Vec*, wh
 ## 2.2 Tokenizing Text
 
 Switch to [`main.ipynb`](./main/main.ipynb) to see the content for this section.
+
+## 2.3 Converting Tokens into Token IDs
+
+Switch to [`main.ipynb`](./main/main.ipynb) to see the content for this section.
+
+## 2.4 Adding Special Context Tokens
+
+Switch to [`main.ipynb`](./main/main.ipynb) to see the content for this section.
+
+## 2.5 Byte Pair Encoding (BPE)
+
+Switch to [`main.ipynb`](./main/main.ipynb) to see the content for this section.
+
+Check [`bytepair-encoder/`](./bytepair-encoder/) directory to compare implementations of BPE tokenizer.
