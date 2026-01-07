@@ -33,3 +33,13 @@ Check [`bytepair-encoder/`](./bytepair-encoder/) directory to compare implementa
 ## 2.6 Data Sampling with a Sliding Window
 
 Switch to [`main.ipynb`](./main/main.ipynb) to see the content for this section.
+
+## 2.7 Creating Token Embeddings
+
+Switch to [`main.ipynb`](./main/main.ipynb) to see the content for this section.
+
+Check [`embedding-vs-matmul`](./embedding-vs-matmul/) directory to compare implementations of token embeddings using embedding layer VS linear layer.
+
+## 2.8 Encoding Word Positions
+
+Switch to [`main.ipynb`](./main/main.ipynb) to see the content for this section.
