@@ -9,3 +9,11 @@ The **instruction fine-tuning** is also known as *supervised instruction fine-tu
 ## 7.2 Preparing a Dataset for Supervised Instruction Fine-Tuning
 
 Switch to [`main.ipynb`](./main/main.ipynb) to implement data loading and preprocessing steps for the instruction-following dataset, ensuring that the data is in the correct format for training the model.
+
+## 7.3 Organizing Data into Training Batches
+
+Switch to [`main.ipynb`](./main/main.ipynb) to implement the logic for organizing the preprocessed data into training batches suitable for feeding into the model during the fine-tuning process.
+
+## 7.4 Creating Dataloaders for an Instruction Dataset
+
+Switch to [`main.ipynb`](./main/main.ipynb) to implement the creation of dataloaders that will efficiently load and serve the instruction-following dataset during the training process.
