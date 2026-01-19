@@ -17,3 +17,15 @@ Switch to [`main.ipynb`](./main/main.ipynb) to implement the logic for organizin
 ## 7.4 Creating Dataloaders for an Instruction Dataset
 
 Switch to [`main.ipynb`](./main/main.ipynb) to implement the creation of dataloaders that will efficiently load and serve the instruction-following dataset during the training process.
+
+## 7.5 Loading a Pretrained LLM
+
+Switch to [`main.ipynb`](./main/main.ipynb) to implement the loading of a pretrained large language model (LLM) that will be fine-tuned on the instruction-following dataset.
+
+## 7.6 Fine-Tuning the LLM on Instruction Data
+
+Switch to [`main.ipynb`](./main/main.ipynb) to implement the fine-tuning process of the loaded LLM using the instruction-following dataset.
+
+## 7.7 Extracting and Saving Responses
+
+Switch to [`main.ipynb`](./main/main.ipynb) to implement the extraction of generated responses from the model and saving them for evaluation or further use.
