@@ -29,3 +29,11 @@ Switch to [`main.ipynb`](./main/main.ipynb) to implement the fine-tuning process
 ## 7.7 Extracting and Saving Responses
 
 Switch to [`main.ipynb`](./main/main.ipynb) to implement the extraction of generated responses from the model and saving them for evaluation or further use.
+
+## 7.8 Evaluating the Fine-Tuned LLM
+
+Switch to [`main.ipynb`](./main/main.ipynb) to implement the evaluation of the fine-tuned LLM on a set of test prompts to assess its performance in following instructions.
+
+## 7.9 Conclusions
+
+This marks the conclusion of the entire LLM development cycle. We have successfully built, trained, fine-tuned, and evaluated a large language model from scratch. This comprehensive journey has provided insights into the various stages of LLM development, from data preparation to model evaluation. With the knowledge and skills acquired, you are now equipped to further explore and innovate in the field of large language models.
